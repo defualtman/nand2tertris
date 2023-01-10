@@ -14,7 +14,6 @@ eval,
 output;
 
 set sel 1,
-set in 0,
 eval,
 output;
 
@@ -24,6 +23,5 @@ eval,
 output;
 
 set sel 1,
-set in 1,
 eval,
 output;
